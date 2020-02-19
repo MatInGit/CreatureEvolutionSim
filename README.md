@@ -17,3 +17,4 @@ To Do:
 To run the code simply run game.py. Python will generate the agents and food sources. The lines are the agents direction and also indicate the line of sight distance. 
 
 
+![Example Run](https://github.com/MatInGit/CreatureEvolutionSim/blob/master/example.jpg)
